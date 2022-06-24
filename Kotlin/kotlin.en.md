@@ -13,9 +13,9 @@
 
 ## 3. Document Link
 
-- Website: https://kotlinlang.org/docs/home.html
+- https://kotlinlang.org/docs/home.html
 - https://freetuts.net/kotlin/kotlin-can-ban
 
-[Video-ENG] https://www.youtube.com/watch?v=F9UC9DY-vIU&t=3202s
+[Video] https://www.youtube.com/watch?v=F9UC9DY-vIU&t=3202s
 
 ### Happy coding!!!
